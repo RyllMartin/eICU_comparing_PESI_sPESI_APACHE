@@ -10,6 +10,6 @@ This study is based on the eICU database. We do not and cannot provide the eICU 
 
 If you use this code (e.g. any of these functions) in your research, please cite the following:
 
-"""
+'''
 
-"""
+'''
