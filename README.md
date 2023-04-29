@@ -8,8 +8,4 @@ This study is based on the eICU database. We do not and cannot provide the eICU 
 
 # Citation
 
-If you use this code (e.g. any of these functions) in your research, please cite the following:
-
-'''
-
-'''
+If you use this code (e.g. any of these functions) in your research, please cite as indicated in the .cff-file.
