@@ -1,9 +1,21 @@
 cff-version: 1.2.0
 message: "If you use this code (e.g. any of the functions), please cite it as below."
 authors:
-  - family-names: 
-    given-names: 
-title: "Prediction of Mortality in Patients with Pulmonary Embolism Using APACHE IVa, PESI and sPESI Scores"
+  - family-names: "Ryll"
+    given-names: "Martin J."
+  - family-names: "Zodl"
+    given-names: "Aurelia"
+  - family-names: "Weingarten"
+    given-names: "Toby N."
+  - family-names: "Rabinstein"
+    given-names: "Alejandro a."
+  - family-names: "Warner"
+    given-names: "David O."
+  - family-names: "Schroeder"
+    given-names: "Darrell R."
+  - family-names: "Sprung"
+    given-names: "Juraj"
+title: "Predicting Mortality in Patients with Pulmonary Embolism Admitted to Critical Care: Comparison of APACHE-IV to 3 Acute Pulmonary Embolism Mortality Risk Scores"
 version: 1.0.0
 date-released: 2023-04-29
 repository-code: "https://github.com/RyllMartin/eICU_comparing_PESI_sPESI_APACHE"
