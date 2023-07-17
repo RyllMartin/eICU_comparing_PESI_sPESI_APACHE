@@ -1,4 +1,4 @@
-# Predicting Mortality in Patients with Pulmonary Embolism Admitted to Critical Care: Comparison of APACHE-IV to 3 Acute Pulmonary Embolism Mortality Risk Scores
+# Predicting Hospital Survival in Patients Admitted to ICU with Pulmonary Embolism
 
 This is the documentation of the code that was used for data extraction, data processing, data visualization and statistical analysis.
 
