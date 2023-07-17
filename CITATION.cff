@@ -15,7 +15,7 @@ authors:
     given-names: "Darrell R."
   - family-names: "Sprung"
     given-names: "Juraj"
-title: "Predicting Mortality in Patients with Pulmonary Embolism Admitted to Critical Care: Comparison of APACHE-IV to 3 Acute Pulmonary Embolism Mortality Risk Scores"
+title: "Predicting Hospital Survival in Patients Admitted to ICU with Pulmonary Embolism"
 version: 1.0.0
 date-released: 2023-04-29
 repository-code: "https://github.com/RyllMartin/eICU_comparing_PESI_sPESI_APACHE"
